@@ -18,6 +18,7 @@ https://github.com/mikeday37/telys
 | Frontend | [Vue.js](https://vuejs.org/) + [Quasar](https://quasar.dev/) ([CLI Flavor](https://quasar.dev/start/quasar-cli))|
 | Backend | [FastAPI](https://fastapi.tiangolo.com/) |
 | Database  | [SQLite](https://sqlite.org/index.html) |
+| Other | [Vite](https://vite.dev/) + [Yarn](https://yarnpkg.com/)
 
 ### Helpful Links
 - [Vue.js](https://vuejs.org/)
