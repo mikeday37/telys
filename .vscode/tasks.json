@@ -1,0 +1,20 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Start Quasar App",
+            "type": "shell",
+            "command": "call yarn quasar dev",
+            "isBackground": true,
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            },
+            "options":{
+                "cwd": "${workspaceFolder}/frontend"
+            },
+            "problemMatcher": []
+        }
+    ]
+}
